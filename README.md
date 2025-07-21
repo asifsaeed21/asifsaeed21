@@ -1,6 +1,6 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Muhammad Asif Saeed</h1>
-<h3 align="center">🚀 Flutter Full Stack Mobile & Web App Developer | Firebase Specialist | UI/UX Innovator</h3>
+<h1 align="center">Hi 🙌, I'm Muhammad Asif Saeed</h1>
+<h3 align="center">📌 Flutter Full Stack Mobile & Web App Developer | Firebase Specialist | UI/UX Innovator</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -16,7 +16,7 @@
 
 ---
 
-## 🔥 About Me
+## 💫 About Me
 
 - 🎯 *Flutter Full Stack App Developer from Pakistan.*
 - 🛠️ *Expert in:* Flutter, Firebase, Dart, REST APIs, MERN Stack, Kotlin, React, HTML/CSS, PHP, JavaScript.
@@ -114,5 +114,9 @@
 
 ## 🧠 Fun Fact
 
-```bash
-💡 I can turn your app ideas into reality — fast, smooth, and beautiful.
+<!-- Fun Facts Section -->
+<h2 align="center">🎉 Fun Facts About Me</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=200&color=38C2FF&center=true&vCenter=true&multiline=true&lines=👾+I+code+like+I+play+games...+strategically!;🚀+Flutter+is+my+magic+wand+🪄;💡+I+fix+bugs+in+my+dreams+too!;🎨+UI+designs+are+my+digital+canvas+🖌️;🔥+Coffee+%2B+Code+%3D+Perfect+Combo!" alt="Typing SVG" />
+</p>
+
