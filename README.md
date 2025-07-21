@@ -111,11 +111,12 @@
 </p>
 
 ---
+## 🌈 Fun Facts
+<!-- Fun Facts Section with Typing Animation -->
 <h2 align="center">🎉 Fun Facts About Me</h2>
 
-<p align="center" style="color:#FFD700; font-weight:bold;">👾 I code like I play games — strategically!</p>
-<p align="center" style="color:#00FFFF; font-weight:bold;">🚀 Flutter is my magic wand 🪄</p>
-<p align="center" style="color:#FF69B4; font-weight:bold;">💡 I fix bugs even in my dreams!</p>
-<p align="center" style="color:#ADFF2F; font-weight:bold;">🎨 UI designs are my digital canvas 🖌️</p>
-<p align="center" style="color:#FF4500; font-weight:bold;">🔥 Coffee + Code = Perfect Combo!</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=👾+I+code+like+I+play+games+—+strategically!;🚀+Flutter+is+my+magic+wand+🪄;💡+I+fix+bugs+even+in+my+dreams!;🎨+UI+designs+are+my+digital+canvas+🖌️;🔥+Coffee+%2B+Code+=+Perfect+Combo!" />
+</p>
+
 
