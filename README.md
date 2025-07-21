@@ -16,18 +16,15 @@
 
 ---
 
-<!-- About Me Section -->
-<h2 align="center">💡 About Me</h2>
+## 🔥 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=00FFFF&center=true&vCenter=true&width=1000&lines=🚀+I'm+a+Passionate+Flutter+Developer;🎯+Crafting+Modern+Apps+with+Clean+UI%2FUX;🔥+Firebase+Wizard+%7C+React+Native+Explorer;👨‍💻+Lifelong+Learner+%7C+Tech+Dreamer" alt="Typing SVG" />
-</p>
+- 🎯 *Flutter Full Stack App Developer from Pakistan.*
+- 🛠️ *Expert in:* Flutter, Firebase, Dart, REST APIs, MERN Stack, Kotlin, React, HTML/CSS, PHP, JavaScript.
+- 🎓 *Working with:* Realtime DB, Firestore, Google Maps, Multi-language apps, Deep linking, Admin Dashboards.
+- 🧠 *Currently exploring:* AI Integrations & Payment Gateways.
+- 🧳 *Available for Freelance, Startup & Collab Projects!*
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=120&section=footer"/>
-</p>
-
-
+---
 ---
 
 ## 🛠️ Tech Stack & Tools
