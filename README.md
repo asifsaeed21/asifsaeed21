@@ -118,7 +118,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=My+debugging+skills+are+next+level+💥+!!!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=My+debugging+skills+are+next+level+!!!"/>
 </p>
 
 <p align="center">
@@ -126,7 +126,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=Coffee+is+my+launch+fuel+🚀+!!!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=Coffee+is+my+launch+fuel+!!!"/>
 </p>
 
 
