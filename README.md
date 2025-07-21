@@ -116,7 +116,8 @@
 <h2 align="center">🎉 Fun Facts About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=👾+I+code+like+I+play+games+—+strategically!;🚀+Flutter+is+my+magic+wand+🪄;💡+I+fix+bugs+even+in+my+dreams!;🎨+UI+designs+are+my+digital+canvas+🖌️;🔥+Coffee+%2B+Code+=+Perfect+Combo!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=👨‍💻+I+code+for+fun+%E2%80%94+and+sometimes+for+snacks!;🎯+My+debugging+skills+are+next+level+💥;💡+Ideas+hit+me+at+2AM+more+than+emails+do.;🚀+Coffee+is+my+launch+fuel.;🎮+I+learned+logic+from+video+games+%F0%9F%91%8A" />
 </p>
+
 
 
