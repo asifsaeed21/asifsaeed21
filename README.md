@@ -6,10 +6,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Crafting+Beautiful+Apps+with+Flutter;Master+of+Mobile+%2B+Web+Development;Firebase+Wizard+%7C+Dart+Lover+%7C+Google+Maps+Ninja;Let%27s+Build+Future+Ready+Apps+Together!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F9FF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Crafting+Beautiful+Apps+with+Flutter;Master+of+Mobile+%2B+Web+Development;Firebase+Wizard+%7C+Dart+Lover+%7C+Google+Maps+Ninja;Let%27s+Build+Future+Ready+Apps+Together!" />
 </p>
 
 <p align="center">
@@ -18,9 +16,9 @@
 
 ---
 
-### 🔥 About Me
+## 🔥 About Me
 
-- 🎯 *I'm a Flutter Full Stack App Developer from Pakistan.*
+- 🎯 *Flutter Full Stack App Developer from Pakistan.*
 - 🛠️ *Expert in:* Flutter, Firebase, Dart, REST APIs, MERN Stack, Kotlin, React, HTML/CSS, PHP, JavaScript.
 - 🎓 *Working with:* Realtime DB, Firestore, Google Maps, Multi-language apps, Deep linking, Admin Dashboards.
 - 🧠 *Currently exploring:* AI Integrations & Payment Gateways.
@@ -52,7 +50,7 @@
 | 💸 **Raka Pay App** | Flutter + Firebase | Secure payment integration, live balance sync |
 | 🛡️ **Guild Management System** | Flutter + Realtime DB | Manages club/guild data, secure login |
 | 🚘 **Car Info Display App** | Flutter + JSON | Real-time car info UI, performance charts |
-| 🧰 **Online Garage Booking** | Flutter + Admin Panel | Book garages, location based filtering |
+| 🧰 **Online Garage Booking** | Flutter + Admin Panel | Book garages, location-based filtering |
 | 🦠 **COVID Tracker App** | Flutter + API | Stats visualized with maps |
 | 🏠 **House Rental App** | Flutter + Firebase | Rentals with booking + messaging |
 | 🎲 **Lottery Game App** | Flutter | Animation-based winner logic |
@@ -98,14 +96,14 @@
 
 <p align="center">
   <a href="mailto:asif.saeed78650@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/m-asif-saeed-5b077a296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/m-asif-saeed-5b077a296"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.freelancer.com/u/asifsaeed20"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/></a>
-  <a href="https://www.upwork.com/freelancers/~01234db6375a29046b?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+  <a href="https://www.upwork.com/freelancers/~01234db6375a29046b"><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
 </p>
 
 ---
 
-### 💡 Quote That Inspires Me
+## 💡 Quote That Inspires Me
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=The+only+way+to+do+great+work+is+to+love+what+you+do.+-+Steve+Jobs" />
@@ -113,7 +111,7 @@
 
 ---
 
-### 🧠 Fun Fact
+## 🧠 Fun Fact
 
 ```bash
 💡 I can turn your app ideas into reality — fast, smooth, and beautiful.
