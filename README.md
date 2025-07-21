@@ -112,13 +112,22 @@
 
 ---
 ## 🌈 Fun Facts
-<!-- Fun Facts Section with Typing Animation -->
-<h2 align="center">🎉 Fun Facts About Me</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=I+code+for+fun+and+sometimes+for+snacks!!!"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=My+debugging+skills+are+next+level+💥+!!!"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=Ideas+hit+me+at+2am+more+than+emails+do!!!"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=Coffee+is+my+launch+fuel+🚀+!!!"/>
+</p>
 
 
 
