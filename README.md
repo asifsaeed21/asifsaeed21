@@ -111,12 +111,11 @@
 </p>
 
 ---
-
-## 🧠 Fun Fact
-
-<!-- Fun Facts Section -->
 <h2 align="center">🎉 Fun Facts About Me</h2>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=200&color=38C2FF&center=true&vCenter=true&multiline=true&lines=👾+I+code+like+I+play+games...+strategically!;🚀+Flutter+is+my+magic+wand+🪄;💡+I+fix+bugs+in+my+dreams+too!;🎨+UI+designs+are+my+digital+canvas+🖌️;🔥+Coffee+%2B+Code+%3D+Perfect+Combo!" alt="Typing SVG" />
-</p>
+
+<p align="center" style="color:#FFD700; font-weight:bold;">👾 I code like I play games — strategically!</p>
+<p align="center" style="color:#00FFFF; font-weight:bold;">🚀 Flutter is my magic wand 🪄</p>
+<p align="center" style="color:#FF69B4; font-weight:bold;">💡 I fix bugs even in my dreams!</p>
+<p align="center" style="color:#ADFF2F; font-weight:bold;">🎨 UI designs are my digital canvas 🖌️</p>
+<p align="center" style="color:#FF4500; font-weight:bold;">🔥 Coffee + Code = Perfect Combo!</p>
 
