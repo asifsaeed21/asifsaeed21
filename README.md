@@ -8,12 +8,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=80&lines=🚀+Mobile+%26+Web+App+Architect+|+Firebase+Specialist;🎨+UI%2FUX+Innovator+|+Performance+Optimizer;💡+Turning+Ideas+into+Digital+Reality" alt="Subtitle Typing" />
   </h3>
 
-  <!-- Animated Developer GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 15px; box-shadow: 0 0 30px rgba(100, 255, 218, 0.5);" />
+  <!-- Professional Developer Animation -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist.png" width="80" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="80" style="margin: 10px;" />
   
   <!-- Animated Sparkle Line -->
   <div>
-    <img src="https://media.giphy.com/media/3oEduOnl5IHM5NRodO/giphy.gif" width="500" />
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" />
   </div>
 
   <!-- Profile Views with Glow Effect -->
@@ -54,6 +56,14 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,react,js,kotlin,php,html,css,mysql,git&theme=dark&perline=6" style="filter: drop-shadow(0 0 15px rgba(100, 255, 218, 0.4));" />
 </div>
 
+<!-- Additional Skills -->
+<div align="center" style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=api&logoColor=white" style="filter: drop-shadow(0 0 8px #FF6B35);" />
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" style="filter: drop-shadow(0 0 8px #4285F4);" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="filter: drop-shadow(0 0 8px #F24E1E);" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="filter: drop-shadow(0 0 8px #F05032);" />
+</div>
+
 ---
 
 <!-- Animated Wave Divider -->
@@ -69,8 +79,8 @@
   <p style="color: #64FFDA;">🧰 <strong>Tech Stack:</strong> Flutter + Firebase + Payment Integration</p>
   <p style="color: #E2E8F0;">📌 Secure payment processing with real-time balance synchronization and beautiful UI animations</p>
   <div>
-    <img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white" style="filter: drop-shadow(0 0 10px #FF6B6B); margin: 5px;" />
-    <img src="https://img.shields.io/badge/Source_Code-64FFDA?style=for-the-badge&logo=github&logoColor=black" style="filter: drop-shadow(0 0 10px #64FFDA); margin: 5px;" />
+    <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white" style="filter: drop-shadow(0 0 10px #FF6B6B); margin: 5px;" /></a>
+    <a href="https://github.com/asifsaeed21"><img src="https://img.shields.io/badge/Source_Code-64FFDA?style=for-the-badge&logo=github&logoColor=black" style="filter: drop-shadow(0 0 10px #64FFDA); margin: 5px;" /></a>
   </div>
 </div>
 
@@ -80,8 +90,8 @@
   <p style="color: #FF6B6B;">🧰 <strong>Tech Stack:</strong> Flutter + Firebase Realtime Database</p>
   <p style="color: #E2E8F0;">📌 Complete club/guild management with secure authentication and real-time data sync</p>
   <div>
-    <img src="https://img.shields.io/badge/Live_Demo-64FFDA?style=for-the-badge&logo=flutter&logoColor=black" style="filter: drop-shadow(0 0 10px #64FFDA); margin: 5px;" />
-    <img src="https://img.shields.io/badge/Source_Code-FF6B6B?style=for-the-badge&logo=github&logoColor=white" style="filter: drop-shadow(0 0 10px #FF6B6B); margin: 5px;" />
+    <a href="#"><img src="https://img.shields.io/badge/Live_Demo-64FFDA?style=for-the-badge&logo=flutter&logoColor=black" style="filter: drop-shadow(0 0 10px #64FFDA); margin: 5px;" /></a>
+    <a href="https://github.com/asifsaeed21"><img src="https://img.shields.io/badge/Source_Code-FF6B6B?style=for-the-badge&logo=github&logoColor=white" style="filter: drop-shadow(0 0 10px #FF6B6B); margin: 5px;" /></a>
   </div>
 </div>
 
@@ -91,8 +101,8 @@
   <p style="color: #FBBF24;">🧰 <strong>Tech Stack:</strong> Flutter + JSON API + Charts</p>
   <p style="color: #E2E8F0;">📌 Real-time vehicle information with performance analytics and interactive charts</p>
   <div>
-    <img src="https://img.shields.io/badge/Live_Demo-FBBF24?style=for-the-badge&logo=flutter&logoColor=black" style="filter: drop-shadow(0 0 10px #FBBF24); margin: 5px;" />
-    <img src="https://img.shields.io/badge/Source_Code-64FFDA?style=for-the-badge&logo=github&logoColor=black" style="filter: drop-shadow(0 0 10px #64FFDA); margin: 5px;" />
+    <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FBBF24?style=for-the-badge&logo=flutter&logoColor=black" style="filter: drop-shadow(0 0 10px #FBBF24); margin: 5px;" /></a>
+    <a href="https://github.com/asifsaeed21"><img src="https://img.shields.io/badge/Source_Code-64FFDA?style=for-the-badge&logo=github&logoColor=black" style="filter: drop-shadow(0 0 10px #64FFDA); margin: 5px;" /></a>
   </div>
 </div>
 
@@ -102,8 +112,8 @@
   <p style="color: #8B5CF6;">🧰 <strong>Tech Stack:</strong> Flutter + Admin Panel + Location Services</p>
   <p style="color: #E2E8F0;">📌 Location-based garage booking with admin dashboard and real-time availability</p>
   <div>
-    <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=flutter&logoColor=white" style="filter: drop-shadow(0 0 10px #8B5CF6); margin: 5px;" />
-    <img src="https://img.shields.io/badge/Source_Code-FF6B6B?style=for-the-badge&logo=github&logoColor=white" style="filter: drop-shadow(0 0 10px #FF6B6B); margin: 5px;" />
+    <a href="#"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=flutter&logoColor=white" style="filter: drop-shadow(0 0 10px #8B5CF6); margin: 5px;" /></a>
+    <a href="https://github.com/asifsaeed21"><img src="https://img.shields.io/badge/Source_Code-FF6B6B?style=for-the-badge&logo=github&logoColor=white" style="filter: drop-shadow(0 0 10px #FF6B6B); margin: 5px;" /></a>
   </div>
 </div>
 
@@ -113,8 +123,8 @@
   <p style="color: #10B981;">🧰 <strong>Tech Stack:</strong> Flutter + Firebase + Real-time Messaging</p>
   <p style="color: #E2E8F0;">📌 Full-featured messaging app with end-to-end encryption and media sharing</p>
   <div>
-    <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=whatsapp&logoColor=white" style="filter: drop-shadow(0 0 10px #10B981); margin: 5px;" />
-    <img src="https://img.shields.io/badge/Source_Code-64FFDA?style=for-the-badge&logo=github&logoColor=black" style="filter: drop-shadow(0 0 10px #64FFDA); margin: 5px;" />
+    <a href="#"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=whatsapp&logoColor=white" style="filter: drop-shadow(0 0 10px #10B981); margin: 5px;" /></a>
+    <a href="https://github.com/asifsaeed21"><img src="https://img.shields.io/badge/Source_Code-64FFDA?style=for-the-badge&logo=github&logoColor=black" style="filter: drop-shadow(0 0 10px #64FFDA); margin: 5px;" /></a>
   </div>
 </div>
 
@@ -206,7 +216,7 @@
 
 <!-- Final Animated Footer -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEduOnl5IHM5NRodO/giphy.gif" width="600" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
   
   <h2 style="color: #64FFDA;">🚀 Ready to Build the Future Together?</h2>
   <p style="color: #E2E8F0; font-size: 18px;">Let's create something extraordinary with Flutter & Firebase! 💫</p>
