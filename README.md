@@ -1,8 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <a href="https://asifsaeed.vercel.app" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7A41D&center=true&vCenter=true&multiline=true&width=1000&height=50&lines=🌐+Visit+My+Portfolio+→+asifsaeed.vercel.app" alt="Visit Portfolio"/>
-  </a>
+  🌐 Visit My Portfolio → <a href="https://asifsaeed.vercel.app" target="_blank">asifsaeed.vercel.app</a>
 </p>
 
 <h1 align="center">Hi 🙌, I'm Muhammad Asif Saeed</h1>
